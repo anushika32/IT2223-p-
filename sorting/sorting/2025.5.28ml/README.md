@@ -2,7 +2,7 @@
 
 This folder contains MATLAB scripts demonstrating various function implementations and concepts.
 
-![1](https://github.com/user-attachments/assets/de269654-0ec2-40e9-9f2d-09e7aaf0ca5e)
+![Output 1](./1.png)
 
 ## Files
 
@@ -27,4 +27,4 @@ This folder contains MATLAB scripts demonstrating various function implementatio
 - User input handling
 - Mathematical operations
 
-![3](https://github.com/user-attachments/assets/10d3613c-0a65-4b1b-a473-8c77024f49a2)
+![Output 3](./3.png)

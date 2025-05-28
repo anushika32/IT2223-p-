@@ -1,21 +1,18 @@
-# IT2244 - Sorting Algorithms
+# Folder Contents: 2025.5.26ml
 
-This folder contains MATLAB implementations of fundamental sorting algorithms.
+This folder contains MATLAB scripts and outputs for sorting algorithm demonstrations.
 
-![1](https://github.com/user-attachments/assets/de269654-0ec2-40e9-9f2d-09e7aaf0ca5e)
+## MATLAB Scripts
+- `bubble_sort.m` - Bubble sort algorithm implementation
+- `Insertion_sort.m` - Insertion sort algorithm implementation
 
-## Files
+## Text Files
+- `sort.txt` - Bubble sort code and explanation
 
-- **bubble_sort.m**: Implementation of the Bubble Sort algorithm
-- **Insertion_sort.m**: Implementation of the Insertion Sort algorithm
-- **sort.txt**: Text file containing bubble sort algorithm explanation and code
+## Output Images
+- `output/1.png`, `output/2.png` - Output screenshots or visualizations from the scripts
 
-## Concepts Covered
+![Output 1](./output/1.png)
+![Output 2](./output/2.png)
 
-- Bubble Sort algorithm
-- Insertion Sort algorithm
-- Array manipulation in MATLAB
-- Algorithm implementation techniques
-- Comparison-based sorting
-
-![2](https://github.com/user-attachments/assets/a1b9c7f4-0d51-4439-87c2-fc3002c6d0c5)
+All files and outputs are directly from this folder's directory and its output subfolder.

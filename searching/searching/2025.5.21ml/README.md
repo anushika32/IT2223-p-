@@ -1,20 +1,17 @@
-# IT2244 - Selection Sort and Search Comparison
+# Folder Contents: 2025.5.21ml
 
-This folder contains MATLAB scripts demonstrating selection sort algorithm and comparing search algorithm performance.
+This folder contains MATLAB scripts and outputs for sorting and search comparison exercises.
 
-![1](https://github.com/user-attachments/assets/de269654-0ec2-40e9-9f2d-09e7aaf0ca5e)
+## MATLAB Scripts
+- `selectionSort.m` - Selection sort algorithm implementation
+- `array1.m` - Compare linear and binary search performance on a large array
+- `arrnew1.m` - Additional comparison of linear and binary search
 
-## Files
+## Output Images
+- `sele.png` - Output or visualization from the scripts
 
-- **selectionSort.m**: Implementation of the Selection Sort algorithm
-- **array1.m**: Script comparing linear search and binary search performance on a large array
-- **arrnew1.m**: Another implementation comparing linear and binary search algorithms
+### Output Preview
 
-## Concepts Covered
+![sele](./sele.png)
 
-- Selection Sort algorithm
-- Performance comparison between linear and binary search
-- Time complexity analysis using tic/toc
-- Working with large arrays in MATLAB
-
-![3](https://github.com/user-attachments/assets/10d3613c-0a65-4b1b-a473-8c77024f49a2)
+All files and outputs are directly from this folder's directory.
